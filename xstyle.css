@@ -1,0 +1,16 @@
+body {
+    background-color: #121212;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: monospace;
+}
+.clock {
+    color: #00ffcc;
+    font-size: 4rem;
+    border: 2px solid #00ffcc;
+    padding: 20px 40px;
+    border-radius: 10px;
+}
